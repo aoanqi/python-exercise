@@ -18,3 +18,4 @@ print not ("testing" == "testing" and "Zed" == "Cool Guy")  # True
 print 1 == 1 and (not ("testing" == 1 or 1 == 0))  # True
 print "chunky" == "bacon" and (not (3 == 4 or 3 == 3))  # False
 print 3 == 3 and (not ("testing" == "testing" or "Python" == "Fun"))  # False
+print 3 != 4 and not ("testing" != "test" or "Python" == "Python")  # False
