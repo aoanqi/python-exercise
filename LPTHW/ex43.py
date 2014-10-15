@@ -45,7 +45,7 @@ class CentralCorridor(Scene):
 		print "flowing around his hate filled body.  He's blocking the door to the"
 		print "Armory and about to pull a weapon to blast you."
 
-		action = raw_input(">")
+		action = raw_input("> ")
 
 		if action == "shoot!":
 			print "Quick on the draw you yank out your blaster and fire it at the Gothon."
